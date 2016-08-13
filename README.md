@@ -3,6 +3,7 @@ Software desenvolvido para o curso "Introduction to Iteractive Programming in Py
 Link dos cursos abaixo:
 
 https://www.coursera.org/learn/interactive-python-1
+
 https://www.coursera.org/learn/interactive-python-2
 
 O código foi desenvolvido para rodar na plataforma cedida pela Rice University, o Codeskultpor, mas pode ser adaptado para rodar em outros ambientes Python, desde que seja feita a portabilidade para algum framework de games para Python, como o Pygame.
