@@ -8,13 +8,15 @@
 ''' Explicacao
 O objetivo do jogo e conseguir a maior pontuacao possivel
 
+Jogabilidade: Utilizando as flechas direcionais do teclado.
+
 - Comeca o jogo com 3 vidas
 - Destruindo 1 asteroide voce recebe um ponto
 - A cada 250 pontos, o jogador recebe uma vida extra
 - Existe um botao para resetar o jogo
 - Existe um campo para o usuario inserir seu nome e se desejado,
 mudar a velocidade dos motores da nave - de 0 a 1.
-- Existem 3 dificuldades diferentes
+- Existem 4 dificuldades diferentes
     Nota: So pode mudar a dificuldade quando o jogo estiver pausado
 
 Divirta-se :D
@@ -22,13 +24,15 @@ Divirta-se :D
 Explanation:
 The games objective is to get the high possilbe Score and try to survive.
 
+How to play: Use the directional keys in the keyboard.
+
 - You start with 3 lives
 - Destroy one asteroid give you 1 point.
 - Every 250 score you'll receive an extra life
 - There is a button to Reset the game
 - There is a field to put your name and a field to change (if desired) the ship
 thrust velocity (0.1 to 1)
-- There are 3 different difficulties
+- There are 4 different difficulties
 
 Note: You only can change the games dificulty if the game is reseted.
 

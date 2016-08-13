@@ -10,7 +10,7 @@ O código foi desenvolvido para rodar na plataforma cedida pela Rice University,
 
 Para visualizar o jogo funcionando em sua plataforma original basta acessar o link abaixo e dar "play".
 
-http://www.codeskulptor.org/#user28_fz5rPDB45s_8.py
+http://www.codeskulptor.org/#user41_fz5rPDB45s_9.py
 
 Enjoy!
 
