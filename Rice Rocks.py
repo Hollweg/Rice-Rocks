@@ -5,7 +5,6 @@
 #Rice University
 #Final Assignment
 
-
 ''' Explicacao
 O objetivo do jogo e conseguir a maior pontuacao possivel
 
@@ -30,7 +29,8 @@ The games objective is to get the high possilbe Score and try to survive.
 - There is a field to put your name and a field to change (if desired) the ship
 thrust velocity (0.1 to 1)
 - There are 3 different difficulties
-    Note: You only can change the games dificulty if the game is reseted.
+
+Note: You only can change the games dificulty if the game is reseted.
 
 Have fun :D'''
 
@@ -56,7 +56,6 @@ Start_Lives = 3
 Lives = Start_Lives
 Random_Explosion = 0
 Random_Explosion_Info = 0
-
 
 Time = 0
 Started = False
@@ -90,7 +89,6 @@ class ImageInfo:
 
     def get_animated(self):
         return self.animated
-
 
 # art assets created by Kim Lathrop, may be freely re-used in non-commercial projects, please credit Kim
 
@@ -152,15 +150,12 @@ missile_sound.set_volume(.5)
 ship_thrust_sound = simplegui.load_sound("http://commondatastorage.googleapis.com/codeskulptor-assets/sounddogs/thrust.mp3")
 explosion_sound = simplegui.load_sound("http://commondatastorage.googleapis.com/codeskulptor-assets/sounddogs/explosion.mp3")
 
-
-
 # helper functions to handle transformations
 def angle_to_vector(ang):
     return [math.cos(ang), math.sin(ang)]
 
 def dist(p,q):
     return math.sqrt((p[0]-q[0])**2+(p[1]-q[1])**2)
-
 
 # Ship class
 class Ship:
@@ -306,7 +301,6 @@ class Sprite:
             # there was a collision
             return True
         return False
-
 
 # key handlers to control ship
 def keydown(key):
@@ -493,7 +487,6 @@ def group_collide(group, other_object):
     #    group.remove(a_sprite)
     #	 print "removing collided sprite"
     
-
 # check for collisions between two groups of objects
 def group_group_collide(group1, group2):
     ''' group1 will happen to be rocks '''
