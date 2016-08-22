@@ -3,7 +3,7 @@
 ## A proposta
 
 Software desenvolvido para o curso **Introduction to Iteractive Programming in Python - part 2**, da **Rice University**, proposto pela plataforma de cursos online **Coursera**. O código fora desenvolvido em dezembro de 2013. </br>
-O template de game espacial foi cedido pelos professores da Rice University, entretanto, foram desenvolvidas todas as funções responsáveis por fazerem o jogo funcionar perfeitamente.
+O template de game espacial foi cedido pelos professores da Rice University, entretanto, **foram desenvolvidas todas as funções responsáveis por fazerem o jogo funcionar perfeitamente**.
 
 Caso tenha interesse, abaixo seguem os links dos cursos de Python da Rice University que compõem o módulo:
 
@@ -18,7 +18,7 @@ Para visualizar o jogo funcionando em sua plataforma original basta acessar o li
 
 http://www.codeskulptor.org/#user41_fz5rPDB45s_9.py
 
-Imagens do game rodando:
+Imagens do game rodando em seu ambiente:
 
 ![Imgur](http://i.imgur.com/pocnKEM.png)</br>
 ![Imgur](http://i.imgur.com/gohKVJc.png)</br>
@@ -27,7 +27,7 @@ Imagens do game rodando:
 ## Direitos
 
 **O projeto pode ser reproduzido sem problema algum.** </br>
-Entretanto, caso isso seja feito, apenas peço para manterem/referenciarem **créditos ao autor** e a Rice University.
+Entretanto, caso isso seja feito, apenas peço para manterem/referenciarem **créditos ao autor** e a **Rice University**.
 
 
 Enjoy!
