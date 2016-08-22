@@ -20,11 +20,9 @@ http://www.codeskulptor.org/#user41_fz5rPDB45s_9.py
 
 Imagens do game rodando:
 
-![Imgur](http://i.imgur.com/P9JExyu.png)
-
-![Imgur](http://i.imgur.com/pocnKEM.png)
-
-![Imgur](http://i.imgur.com/gohKVJc.png)
+![Imgur](http://i.imgur.com/pocnKEM.png)</br>
+![Imgur](http://i.imgur.com/gohKVJc.png)</br>
+![Imgur](http://i.imgur.com/P9JExyu.png)</br>
 
 ## Direitos
 
