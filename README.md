@@ -14,7 +14,7 @@ https://www.coursera.org/learn/interactive-python-2</br>
 
 O código foi desenvolvido para rodar na plataforma cedida pela Rice University, o **Codeskultpor**, mas pode ser adaptado para rodar em outros ambientes Python, desde que seja feita a portabilidade para algum **framework de games para Python, como é o caso do Pygame**.
 
-Para visualizar o jogo funcionando em sua plataforma original basta acessar o link abaixo e clicar em _play_, no canto superior esquerdo do ambiente de desenvolvimento.
+Para visualizar o jogo funcionando em sua plataforma original basta acessar o link abaixo e clicar em **play, no canto superior esquerdo do ambiente de desenvolvimento**.
 
 http://www.codeskulptor.org/#user41_fz5rPDB45s_9.py
 
@@ -32,5 +32,5 @@ Entretanto, caso isso seja feito, apenas peço para manterem/referenciarem **cr�
 
 Enjoy!
 
-Hollweg
+**Hollweg**
 
