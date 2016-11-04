@@ -24,6 +24,19 @@ Below we have some images of the game on CodeSkulptor platform:
 ![Imgur](http://i.imgur.com/gohKVJc.png)</br>
 ![Imgur](http://i.imgur.com/P9JExyu.png)</br>
 
+#Game Instructions
+
+The game objective is to get the **highest score and try to survive the meteors.**
+
+- You start with 3 lives </br>
+- Destroy one asteroid give you 1 point. </br>
+- Every 250 score you'll receive an extra life. </br>
+- There is a button to Reset the game. </br>
+- There is a field to put your name and a field to change (if desired) the ship thrust velocity (0.1 to 1). </br>
+- There are 4 different difficulties. </br>
+
+Note: You only can **change the game difficulty** if the game is **reseted**.
+
 ##Copyright
 
 **The project can be reproduced with no problem**. </br>
