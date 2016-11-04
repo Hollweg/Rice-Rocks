@@ -24,7 +24,7 @@ Below we have some images of the game on CodeSkulptor platform:
 ![Imgur](http://i.imgur.com/gohKVJc.png)</br>
 ![Imgur](http://i.imgur.com/P9JExyu.png)</br>
 
-#Game Instructions
+##Game Instructions
 
 The game objective is to get the **highest score and try to survive the meteors.**
 
