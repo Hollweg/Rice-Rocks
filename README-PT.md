@@ -1,6 +1,6 @@
-#Rice Rocks
+# Rice Rocks
 
-##A proposta
+## A proposta
 
 Esse software foi desenvolvido para o curso **Introduction to Iteractive Programming in Python - part 2** da **Rice University**, pela plataforma de cursos online Coursera.
 
@@ -12,7 +12,7 @@ Se você tiver interesse em ver os cursos de Python oferecidos pela Rice Univers
 https://www.coursera.org/learn/interactive-python-1</br>
 https://www.coursera.org/learn/interactive-python-2</br>
 
-##Como o jogo funciona?
+## Como o jogo funciona?
 
 O código foi desenvolvido para rodar na plataforma proporcionada pela universidade, o **CodeSkultptor**, entretanto, pode ser adaptado para rodar em diferentes ambientes Python, desde que seja feita **uma portabilidade** no código. 
 
@@ -30,7 +30,7 @@ Abaixo tem algumas imagens do jogo desenvolvido em seu ambiente nativo:
 ![Imgur](http://i.imgur.com/gohKVJc.png)</br>
 ![Imgur](http://i.imgur.com/P9JExyu.png)</br>
 
-##Direitos
+## Direitos
 
 **O projeto pode ser reproduzido sem problema algum.** </br>
 Todavia, caso isso seja feito, peço apenas para que **mantenham/referenciem o autor**. :) </br>
